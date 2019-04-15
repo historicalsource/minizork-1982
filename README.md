@@ -1,6 +1,6 @@
 # MiniZork (1982 Edition) Source Code Collection
 
-MiniZork (1982 Edition) is a 1982 sampler edition of Zork I. 
+MiniZork (1982 Edition) is a 1982 sampler edition of Zork I. It is possibly incomplete.
 
 __What is this Repository?__
 
